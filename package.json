@@ -1,0 +1,30 @@
+{
+  "name": "@matteo.collina/minimist",
+  "version": "1.2.6",
+  "description": "parse argument options",
+  "main": "index.js",
+  "devDependencies": {
+    "standard": "^17.0.0",
+    "tap": "^16.0.0"
+  },
+  "scripts": {
+    "test": "standard && tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mcollina/minimist.git"
+  },
+  "homepage": "https://github.com/mcollina/minimist",
+  "keywords": [
+    "argv",
+    "getopt",
+    "parser",
+    "optimist"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT"
+}
